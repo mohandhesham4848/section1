@@ -7,9 +7,8 @@ class Solution {
           return [i, j];
         }
       }
-      if (i == 1) {
-        break;
+   
+    
       }
-    }
   }
 }
